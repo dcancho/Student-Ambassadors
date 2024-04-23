@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Student Ambassadors.exe
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Student Ambassadors.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Student Ambassadors.deps.json
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Student Ambassadors.runtimeconfig.json
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Student Ambassadors.pdb
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

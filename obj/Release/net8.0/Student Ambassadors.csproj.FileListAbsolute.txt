@@ -1,0 +1,33 @@
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\appsettings.json
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Student Ambassadors.exe
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Student Ambassadors.deps.json
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Student Ambassadors.runtimeconfig.json
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Student Ambassadors.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Student Ambassadors.pdb
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diego\source\repos\Student Ambassadors\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\staticwebassets\msbuild.Student Ambassadors.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\staticwebassets\msbuild.build.Student Ambassadors.props
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Student Ambassadors.props
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Student Ambassadors.props
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\scopedcss\bundle\Student Ambassadors.styles.css
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.csproj.CopyComplete
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.dll
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\refint\Student Ambassadors.dll
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.pdb
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\Student Ambassadors.genruntimeconfig.cache
+C:\Users\Diego\source\repos\Student Ambassadors\obj\Release\net8.0\ref\Student Ambassadors.dll
